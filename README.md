@@ -22,5 +22,3 @@
    - Each time you refresh the page (e.g., by pressing F5 or clicking the refresh button in your browser), the dice are re-rolled, and a new result is displayed.
 
 ---
-
-This simple game is based on luck, with each player having an equal chance of winning or drawing on each roll.
